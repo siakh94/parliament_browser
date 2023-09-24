@@ -1,0 +1,6 @@
+target/
+xml/*
+!xml/.gitkeep
+latex-out/*
+!latex-out/.gitkeep
+templates/src.pdf

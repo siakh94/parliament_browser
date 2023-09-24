@@ -1,0 +1,15 @@
+.speech-item {
+    max-height: 250px;
+    overflow-y: auto;
+    color: white
+}
+
+#generic-search {
+    margin: 20px;
+}
+
+.boxbox {
+    background-color: white;
+    border: 2px solid black;
+    border-radius: 4px;
+}
